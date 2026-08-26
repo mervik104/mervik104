@@ -64,9 +64,6 @@ Frontend-разработчик с опытом fullstack-проектов на 
 ### 🏢 ГК «Некрасовский» — [nekras.ru](https://nekras.ru)
 Коммерческий сайт для международной аудитории: 3 языка (RU/EN/CN), тёмная/светлая тема. Backend на Payload CMS + MongoDB с админ-панелью, frontend — Nuxt + Tailwind, ISR-рендеринг, SEO-оптимизация.
 
-### 🤖 Internetlab — тестовое задание
-Форма обратной связи с анализом тональности через Google Gemini AI. Backend на FastAPI (слоистая архитектура API/Service/Repository), Pydantic-валидация, rate limiting. Frontend на Nuxt 4 + Pinia + Tailwind CSS 4.
-
 ### 📋 Freshcheck — [freshcheckastra.ru](https://freshcheckastra.ru)
 Open-source проект для гражданской инициативы жителей Астрахани. Backend на Payload CMS + MongoDB, frontend на Nuxt + Tailwind, ISR и SEO для быстрой индексации контента.
 
