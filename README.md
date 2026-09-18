@@ -67,8 +67,8 @@ Frontend-разработчик с опытом fullstack-проектов на 
 ### 📋 Freshcheck — [freshcheckastra.ru](https://freshcheckastra.ru)
 Open-source проект для гражданской инициативы жителей Астрахани. Backend на Payload CMS + MongoDB, frontend на Nuxt + Tailwind, ISR и SEO для быстрой индексации контента.
 
-### 📸 Nuxtgram — личный проект
-Социальная платформа на Nuxt + Payload CMS + Tailwind. Backend-логика, структура БД, API и frontend-интерфейс, система постов.
+### 📸 [Nuxtgram](https://nuxtgram.mervik.ru) — личный проект
+Instagram-подобная лента на serverless-стеке: Nuxt 4 SPA + Clerk (аутентификация) + SurrealDB (данные, real-time LIVE-подписки) + Cloudflare Worker поверх R2 (медиа, presigned-загрузка). Юнит-тесты на bun:test. [Исходники](https://github.com/mervik104/nuxtgram-frontend).
 
 ---
 
